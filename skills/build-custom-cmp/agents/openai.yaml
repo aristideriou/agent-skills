@@ -1,0 +1,7 @@
+interface:
+  display_name: CMP maison pour GTM
+  short_description: Créer une CMP maison adaptée au site et reliée à GTM
+  default_prompt: Utilise $build-custom-cmp pour créer une CMP maison cohérente avec
+    mon site et préparer son intégration à GTM.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
